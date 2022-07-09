@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33daeaf9-4237-49a4-9794-bebd5d68eeec": {
+      "ProjectGuid": "33daeaf9-4237-49a4-9794-bebd5d68eeec",
+      "DisplayName": "CatalogApiProject",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fa700ddb-9053-4b23-a414-0e00f2822cf7": {
+      "ProjectGuid": "fa700ddb-9053-4b23-a414-0e00f2822cf7",
+      "DisplayName": "vuecatalog",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
